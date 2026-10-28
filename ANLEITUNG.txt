@@ -1,0 +1,44 @@
+========================================================================
+     KURZANLEITUNG: COMPUTER AKTUALISIEREN & APPS INSTALLIEREN
+========================================================================
+
+Für: Windows 10 und Windows 11
+Für: Senioren, sehbehinderte und blinde Personen (Screenreader & Stimme)
+
+
+BEDIENUNG IN 3 SCHRITTEN:
+-------------------------
+
+1. ÖFFNEN
+   Klicken Sie auf das Symbol "Computer Aktualisieren" auf dem Schreibtisch
+   oder starten Sie "Computer-Aktualisierer.exe".
+
+2. RECHTE BESTÄTIGEN
+   Wenn Windows fragt:
+   "Möchten Sie zulassen, dass diese App Änderungen vornimmt?",
+   drücken Sie "JA" (oder Alt + J).
+
+3. STARTEN
+   - Drücken Sie ENTER, um alles zu aktualisieren.
+   - ODER drücken Sie ALT + I, um wichtige Programme zu installieren
+     (NVDA, LibreOffice, Thunderbird, Chrome, Firefox, Antigravity).
+
+
+TASTATURBEFEHLE (FÜR BLINDE & SCREENREADER):
+--------------------------------------------
+- ENTER oder LEERTASTE : Aktualisierung starten (bzw. Fenster schließen)
+- ALT + I (oder F3)    : Wichtige Programme installieren (NVDA, LibreOffice etc.)
+- F1                   : Aktuellen Status jederzeit laut vorlesen lassen
+- F5 (oder ALT + U)    : Auf App-Updates prüfen (Auto-Updater)
+- ALT + S              : Sprachausgabe (Vorlesen) an / ausschalten
+- ALT + N              : Automatischer Neustart nach Updates an / ausschalten
+- ALT + D (oder F2)    : Technische Protokolle anzeigen / verbergen
+- ESCAPE               : Programm oder Dialog beenden
+
+
+AUTOMATISCHER APP-UPDATER:
+--------------------------
+Die Anwendung prüft beim Starten automatisch über GitHub, ob eine
+neuere Version der App existiert, und aktualisiert sich bei Bedarf
+vollkommen selbstständig.
+========================================================================
